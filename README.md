@@ -1,0 +1,1 @@
+builds block letters to form provided input string in specified color and direction.  
